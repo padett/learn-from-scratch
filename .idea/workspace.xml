@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af00004b-eaf8-4dee-84f9-7d571d375d3b" name="Default Changelist" comment="" />
+    <list default="true" id="af00004b-eaf8-4dee-84f9-7d571d375d3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +18,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -25,13 +36,18 @@
     <option name="namespace" value="default" />
   </component>
   <component name="ProjectId" id="1kQ5QiiLDnk3EdlGSTjaYlOhCjo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - SAS/Trials/Production" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -48,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605619961194</updated>
-      <workItem from="1605619962384" duration="1824000" />
+      <workItem from="1605619962384" duration="6506000" />
     </task>
     <servers />
   </component>
@@ -56,6 +72,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1500" y="459" key="FileChooserDialogImpl" timestamp="1605631124650">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1500" y="459" key="FileChooserDialogImpl/3440.0.2560.1410/0.0.3440.1410@0.0.3440.1410" timestamp="1605631124650" />
+    <state x="1575" y="602" key="Github.ShareDialog" timestamp="1605621885301">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1575" y="602" key="Github.ShareDialog/3440.0.2560.1410/0.0.3440.1410@0.0.3440.1410" timestamp="1605621885301" />
+    <state x="1563" y="402" key="Github.UntrackedFilesDialog" timestamp="1605621896890">
+      <screen x="0" y="0" width="3440" height="1410" />
+    </state>
+    <state x="1563" y="402" key="Github.UntrackedFilesDialog/3440.0.2560.1410/0.0.3440.1410@0.0.3440.1410" timestamp="1605621896890" />
     <state x="1376" y="333" key="run.anything.popup" timestamp="1605620120906">
       <screen x="0" y="0" width="3440" height="1410" />
     </state>
